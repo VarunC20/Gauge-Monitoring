@@ -1,2 +1,1 @@
-# ForecastingTool
-This is a Forecasting system code for production
+The code contain gauge monitoring code using hough transform.
